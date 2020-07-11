@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-### I'm Antoine, a young student living in Lyon, specialized in web & mobile developpement.
+### I'm Antoine, a young student living in Lyon, specialized in web & mobile developpement. 💻
+
+- I like working with peoples and expanding my knowledges
+- I love staying tuned by the latest news !
+- I'm looking for incorporate a compagny for my studies ⌨
+
+### TECH FOR GOOD
+
 <!--
 **Azroph/Azroph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
