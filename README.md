@@ -2,7 +2,7 @@
 
 ### I'm Antoine, a young student living in Lyon, specialized in Web & Mobile Developpement. 💻
 
-- I like working with peoples and expanding my knowledges
+- I like working with people and expanding my knowledges
 - I love staying tuned by the latest news !
 - I'm looking for incorporate a compagny for my studies ⌨
 
