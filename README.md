@@ -6,6 +6,10 @@
 - I love staying tuned by the latest news !
 - I'm looking for incorporate a compagny for my studies ⌨
 
+### JavaScript 
+### HTML 5 / CSS3
+### WordPress 5
+
 ### TECH FOR GOOD
 
 <!--
