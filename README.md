@@ -6,8 +6,8 @@
 - I love staying tuned by the latest news !
 - I'm looking for incorporate a compagny for my studies ⌨
 
-**JavaScript**
-**HTLM5/ CSS3**
+**JavaScript / **
+**HTLM5 / CSS3 / **
 **WordPress 5**
 
                                                             TECH FOR GOOD
