@@ -4,7 +4,7 @@
 
 - I like working with people and expanding my knowledges
 - I love staying tuned by the latest news !
-- I'm looking for incorporate a compagny for my studies ⌨
+- I work for a compagny during my studies ⌨
 
 **JavaScript** / 
 **HTLM5** / **CSS3** / 
