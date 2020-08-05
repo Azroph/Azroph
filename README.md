@@ -7,6 +7,7 @@
 - I work for a compagny during my studies ⌨
 
 **JavaScript** / 
+**PHP** /
 **HTLM5** / **CSS3** / 
 **WordPress 5**
 
