@@ -9,6 +9,8 @@
 **JavaScript** / 
 **PHP** /
 **HTLM5** / **CSS3** / 
+**Bootstrap** /
+**SCSS** /
 **WordPress 5**
 
                                                             TECH FOR GOOD
