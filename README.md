@@ -11,7 +11,8 @@
 **HTLM5** / **CSS3** / 
 **Bootstrap** /
 **SCSS** /
-**WordPress 5**
+**WordPress 5** /
+**React**
 
                                                             TECH FOR GOOD
 
