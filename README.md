@@ -6,12 +6,12 @@
 - I love staying tuned by the latest news !
 - I'm working for a compagny during my studies ⌨
 
-**JavaScript** / 
+**WordPress 5** /
 **PHP** /
-**HTLM5** / **CSS3** / 
+**JavaScript** / 
+**HTLM** / **CSS** / 
 **SCSS** /
 **Bootstrap** /
-**WordPress 5** /
 **React**
 
                                                             TECH FOR GOOD
