@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-### I'm Antoine, a young student living in Lyon, specialized in Web & Mobile Developpement. 💻
+### I'm Antoine, a student specialized in Web & Mobile Developpement. 💻
 
 - I like working with people and expanding my knowledges
-- I love staying tuned by the latest news !
+- I love staying tuned by the latest news
 - I'm working for a compagny during my studies ⌨
 
 **WordPress 5** /
