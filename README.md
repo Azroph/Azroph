@@ -6,15 +6,14 @@
 - I love staying tuned by the latest news
 - I'm working for a compagny during my studies ⌨
 
-**WordPress 5** /
+**WordPress** /
 **PHP** /
-**JavaScript** / 
-**HTLM** / **CSS** / 
+**JavaScript** /
 **SCSS** /
 **Bootstrap** /
 **React**
 
-                                                            TECH FOR GOOD
+                                                     TECH FOR GOOD
 
 <!--
 **Azroph/Azroph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
